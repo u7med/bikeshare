@@ -1,3 +1,7 @@
+#this is my first project
+# ~~~~ ( bikeshare ) ~~~~~
+
+
 import time
 import pandas as pd
 import numpy as np
