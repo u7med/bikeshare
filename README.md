@@ -21,6 +21,6 @@ Run the python file using a suitable python interpreter.
 Resources
 -----------
 
-Stackoverflow
-Python documentation
-Tutorials Point
+1.Stackoverflow
+2.Python documentation
+3.Tutorials Point
