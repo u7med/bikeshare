@@ -17,6 +17,9 @@ To use the project-
 Place the bikeshare.py file and all the CSV files in the same folder.
 Run the python file using a suitable python interpreter.
 
+Files used
+-------------
+bikeshare.py chicago.csv new_york_city.csv washington.csv
 
 Resources
 -----------
