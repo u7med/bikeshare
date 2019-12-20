@@ -1,6 +1,6 @@
 #this is my first project
 # ~~~~ ( bikeshare ) ~~~~~
-
+#Udacity project
 
 import time
 import pandas as pd
@@ -53,7 +53,7 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
-
+ 
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
